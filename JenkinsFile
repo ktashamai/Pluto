@@ -29,4 +29,4 @@ bat "mvn clean"
 }
 }
 }
-}
+
