@@ -13,6 +13,7 @@ echo "Testing the code..."
 bat "mvn clean"
 }
 }
+{
 stage ('Compile'){
 echo "Compiling the code..."
 bat "mvn clean"
